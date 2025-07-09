@@ -1,0 +1,1 @@
+Projeto criado para praticar automação com Python, com o objetivo de me tornar apto a aplicar esses conhecimentos no mercado de trabalho.
